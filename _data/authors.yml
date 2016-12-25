@@ -1,0 +1,23 @@
+dbarrosop:
+  name        : "David Barroso"
+  uri         : "https://www.dravetech.com/"
+  bio         : "Works at <a href='https://www.fastly.com/'>Fastly</a>"
+  avatar      : "/assets/images/dbarrosop-160x160.png"
+  twitter     : "dbarrosop"
+  linkedin    : "dbarrosop"
+
+ggabriele:
+  name        : "Gabriele Gerbino"
+  bio         : "Works at <a href='http://networktocode.com/'>network.toCode()</a>"
+  avatar      : "/assets/images/ggabriele-160x160.png"
+  uri         : "https://projectme10.wordpress.com/"
+  twitter     : "gabrielegerbino"
+
+ogenstad:
+  name        : "Patrick Ogenstad"
+  bio         : "Works at <a href='http://www.conscia-netsafe.se/'>Conscia</a>"
+  avatar      : "/assets/images/ogenstad-160x160.png"
+  github      : ogenstad
+  twitter     : "networklore"
+  uri         : "https://networklore.com"
+  linkedin    : "patrickogenstad"

@@ -1,12 +1,95 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Principals"
+    url: /principals/
+
+  - title: "Skills"
+    url: /skills/
+
+  - title: "Toolkit"
+    url: /toolkit/
+
+  - title: "Contributors"
+    url: /contributors/
+
+  - title: "Articles"
+    url: /articles/
+
+
+principals:
+  - title: Introduction
+    children:
+      - title: "Why bother"
+        url: /principals/why-bother/
+      - title: "Don't reinvent things"
+        url: /principals/dont-reinvent/
+      - title: "Start simple"
+        url: /principals/start-simple/
+      - title: "Iterate"
+        url: /principals/iterate/
+      - title: "Don't be a hero"
+        url: /principals/heroism/
+
+  - title: Automating your configuration
+    children:
+      - title: "Pushing config"
+        url: /principals/push-config/
+      - title: "Thinking in templates"
+        url: /principals/templates/
+      - title: "The brownfield journey"
+        url: /principals/brownfield-journey/
+      - title: "Own your configuration"
+        url: /principals/own-your-config/
+      - title: "Verify the changes"
+        url: /principals/verify-changes/
+      - title: "Find a balance"
+        url: /principals/balance/
+      - title: "What are you automating?"
+        url: /principals/automate-what/
+
+  - title: Turning pro
+    children:
+      - title: "Data is key"
+        url: /principals/data/
+      - title: "Build a service catalog"
+        url: /principals/service-catalog/
+      - title: "Abstraction"
+        url: /principals/abstract/
+      - title: "Expose"
+        url: /principals/expose/
+      - title: "Network testing"
+        url: /principals/testing/
+      - title: "Have fun and share"
+        url: /principals/have-fun/
+
+skills:
+  - title: Honing your skills
+    children:
+      - title: "Networking foundation"
+        url: /skills/foundation/
+      - title: "Linux"
+        url: /skills/linux/
+      - title: "Writing code"
+        url: /skills/writing-code/
+      - title: "Version control"
+        url: /skills/version-control/
+      - title: "The whole system"
+        url: /skills/whole-system/
+      - title: "Scary future tools"
+        url: /skills/future-tools/
+
+toolkit:
+  - title: Toolkit
+    children:
+      - title: "Ansible"
+        url: /toolkit/ansible/
+      - title: "Git"
+        url: /toolkit/git/
+      - title: "Napalm"
+        url: /toolkit/napalm/
+      - title: "Python"
+        url: /toolkit/python/
+      - title: "Salt"
+        url: /toolkit/salt/
+      - title: "Stackstorm"
+        url: /toolkit/stackstorm/
