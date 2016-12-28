@@ -9,7 +9,7 @@ intro:
 
 dbarrosop:
   - title: "David Barroso"
-    image_path: david-barroso-600x400.jpg
+    image_path: /assets/images/david-barroso-600x400.png
     alt: "David Barroso"
     excerpt: 'David Barroso is a xxx'
     url: "/dbarrosop/"

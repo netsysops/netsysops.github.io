@@ -25,6 +25,8 @@ git:
     url: "/toolkit/git/"
     btn_label: "Read more"
     btn_class: "btn--inverse"
+    image_path: /assets/images/git-600x400.png
+    alt: "Git"
 
 
 napalm:
@@ -43,7 +45,8 @@ python:
     url: "/toolkit/python/"
     btn_label: "Read more"
     btn_class: "btn--inverse"
-
+    image_path: /assets/images/python-600x400.png
+    alt: "Python"
 
 salt:
   - title: "Salt"
@@ -58,6 +61,8 @@ stackstorm:
     url: "/toolkit/stackstorm/"
     btn_label: "Read more"
     btn_class: "btn--inverse"
+    image_path: /assets/images/stackstorm-600x400.png
+    alt: "Stackstorm"
 
 
 ---

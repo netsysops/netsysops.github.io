@@ -71,6 +71,8 @@ templates:
     url: "/principals/templates/"
     btn_label: "Read"
     btn_class: "btn--inverse"
+    image_path: /assets/images/templates-600x400.png
+    alt: "Templates"
 
 
 brownfield_journey:

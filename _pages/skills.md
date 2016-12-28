@@ -23,6 +23,8 @@ linux:
     url: "/skills/linux/"
     btn_label: "Read more"
     btn_class: "btn--inverse"
+    image_path: /assets/images/penguin-600x400.png
+    alt: "Linux"
 
 writing_code:
   - title: "Writing Code"
@@ -31,6 +33,8 @@ writing_code:
     url: "/skills/writing-code/"
     btn_label: "Read more"
     btn_class: "btn--inverse"
+    image_path: /assets/images/writing-code-600x400.png
+    alt: "Writing code"
 
 version_control:
   - title: "Version Control"
@@ -48,6 +52,8 @@ whole_system:
     url: "/skills/whole-system/"
     btn_label: "Read more"
     btn_class: "btn--inverse"
+    image_path: /assets/images/map-600x400.png
+    alt: "Overview"
 
 future_tools:
   - title: "Future tools"
@@ -56,6 +62,8 @@ future_tools:
     url: "/skills/future-tools/"
     btn_label: "Read more"
     btn_class: "btn--inverse"
+    image_path: /assets/images/future-tools-600x400.png
+    alt: "Future tools"
 
 ---
 
