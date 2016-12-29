@@ -15,6 +15,8 @@ foundation:
     url: "/skills/foundation/"
     btn_label: "Read more"
     btn_class: "btn--inverse"
+    image_path: /assets/images/foundation-600x400.png
+    alt: "Foundation"
 
 linux:
   - title: "Linux"
