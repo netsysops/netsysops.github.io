@@ -54,6 +54,8 @@ salt:
     url: "/toolkit/salt/"
     btn_label: "Read more"
     btn_class: "btn--inverse"
+    image_path: /assets/images/saltstack-600x400.png
+    alt: "Saltstack"
 
 stackstorm:
   - title: "Stackstorm"

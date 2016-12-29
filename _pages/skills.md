@@ -45,6 +45,8 @@ version_control:
     url: "/skills/version-control/"
     btn_label: "Read more"
     btn_class: "btn--inverse"
+    image_path: /assets/images/versions-600x400.png
+    alt: "Versions"
 
 
 whole_system:
