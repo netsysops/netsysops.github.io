@@ -3,6 +3,8 @@ title: "Hone your skills for network automation"
 layout: splash
 permalink: /skills/
 excerpt: ""
+header:
+  teaser: /assets/images/skills-500x300.png
 
 intro:
     title: "Hone your skills"

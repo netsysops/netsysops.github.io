@@ -3,6 +3,8 @@ title: "Principals of Network Automation"
 layout: splash
 permalink: /principals/
 excerpt: ""
+header:
+  teaser: /assets/images/principals-500x300.png
 
 intro:
   - title: "The Principals of Network Automation"

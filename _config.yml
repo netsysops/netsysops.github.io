@@ -137,6 +137,8 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /tests # Python test files
+  - /.cache
 keep_files:
   - .git
   - .svn

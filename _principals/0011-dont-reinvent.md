@@ -1,6 +1,9 @@
 ---
 title: Don't reinvent
 permalink: /principals/dont-reinvent/
+header:
+  teaser: /assets/images/cart-wheel-600x400.png
+
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat et felis et euismod. Praesent in libero augue. Fusce leo nunc, eleifend eget lacus et, fermentum feugiat augue. In vel lectus venenatis, volutpat turpis et, ultricies erat. Donec efficitur ligula sed egestas dignissim. In non convallis ligula. Vestibulum id massa at nisl egestas gravida eu eget metus. Sed sagittis, magna consectetur blandit pulvinar, dolor odio dignissim eros, eu suscipit nisl risus ac erat. Proin sit amet mi est. Nulla facilisi. Sed dignissim nisi tempus nibh commodo ultrices. Vestibulum lobortis sit amet mi non sodales. Vivamus congue ullamcorper auctor. Praesent posuere ante a neque rutrum vestibulum. Nunc sit amet venenatis leo, id placerat dui.
 

@@ -3,6 +3,9 @@ title: "Netsysopt Contributors"
 layout: splash
 permalink: /contributors/
 excerpt: ""
+header:
+  teaser: /assets/images/contributors-600x400.png
+
 
 intro:
   - title: "Contributors"

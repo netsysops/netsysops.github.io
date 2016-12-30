@@ -3,6 +3,8 @@ title: "Network Automation Toolkit"
 layout: splash
 permalink: /toolkit/
 excerpt: ""
+header:
+  teaser: /assets/images/toolkit-500x300.png
 
 intro:
   - excerpt: 'This is the toolkit'
