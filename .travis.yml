@@ -1,0 +1,16 @@
+---
+language: ruby
+rvm:
+- 2.2.5
+
+install:
+  - bundle install
+  - gem install html-proofer
+  - sudo pip install pytest
+
+script:
+  - jekyll build
+  - htmlproofer ./_site --allow-hash-href --disable-external
+  - cp _site-validation/site-validation.md _pages
+  - jekyll build
+  - pytest

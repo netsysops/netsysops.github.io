@@ -29,6 +29,7 @@ feature_row:
   - image_path: /assets/images/toolkit-500x300.png
     title: "Starting toolkit"
     excerpt: "A collection of tools which will be useful in your journey to network automation."
+    alt: "Toolkit"
     url: "/toolkit/"
     btn_label: "Discover"
     btn_class: "btn--inverse"

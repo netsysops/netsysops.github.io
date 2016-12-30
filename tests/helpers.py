@@ -8,6 +8,7 @@ IGNORED_FILES = [
     'feed.xslt.xml',
     '_pages/404.md',
     '_site-validation/site-validation.md',
+    '_pages/site-validation.md',
     'articles/index.html',
     '_pages/ggabriele.md',
     '_principals/0020-push-config.md',
