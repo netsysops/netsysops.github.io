@@ -1,8 +1,11 @@
 ---
 language: ruby
+rvm:
+- 2.2.5
 
 install:
-  - gem install jekyll html-proofer
+  - bundle install
+  - gem install html-proofer
   - sudo pip install pytest
 
 script:
