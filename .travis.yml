@@ -1,0 +1,13 @@
+---
+language: ruby
+
+install:
+  - gem install jekyll html-proofer
+  - sudo pip install pytest
+
+script:
+  - jekyll build
+  - htmlproofer ./_site
+  - cp _site-validation/site-validation.md _pages
+  - jekyll build
+  - pytest

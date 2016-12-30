@@ -139,6 +139,7 @@ exclude:
   - /test # ignore Minimal Mistakes /test
   - /tests # Python test files
   - /.cache
+  - vendor
 keep_files:
   - .git
   - .svn
