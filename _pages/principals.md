@@ -68,8 +68,8 @@ push_config:
     url: "/principals/push-config/"
     btn_label: "Read"
     btn_class: "btn--inverse"
-
-
+    image_path: /assets/images/manufacture-600x400.png
+    alt: "Pushing config"
 
 templates:
   - title: "Thinking in templates"
