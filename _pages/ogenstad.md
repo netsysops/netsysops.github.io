@@ -5,5 +5,6 @@ permalink: /ogenstad/
 excerpt: ""
 author_profile: true
 author: ogenstad
+description: "About Patrick Ogenstad"
 ---
 Text about Patrick

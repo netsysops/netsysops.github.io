@@ -4,3 +4,8 @@ url: "http://127.0.0.1:4000"
 
 analytics:
   provider: false
+
+include:
+  - .htaccess
+  - _pages
+  - _site-validation
