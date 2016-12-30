@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Netsys Ops"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Netsys Ops"
 description              : "An amazing website."
 url                      : "https://netsysops.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
