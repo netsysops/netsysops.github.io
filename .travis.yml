@@ -10,7 +10,7 @@ install:
 
 script:
   - jekyll build
-  - htmlproofer ./_site
+  - htmlproofer ./_site --allow-hash-href --disable-external
   - cp _site-validation/site-validation.md _pages
   - jekyll build
   - pytest
