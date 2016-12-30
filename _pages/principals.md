@@ -36,6 +36,8 @@ simple:
     url: "/principals/start-simple/"
     btn_label: "Read"
     btn_class: "btn--inverse"
+    image_path: /assets/images/simple-start-600x400.png
+    alt: "Simple start"
 
 iterate:
   - title: "Always iterate"
@@ -43,6 +45,8 @@ iterate:
     url: "/principals/iterate/"
     btn_label: "Read"
     btn_class: "btn--inverse"
+    image_path: /assets/images/iterate-600x400.png
+    alt: "Iterate"
 
 heroism:
   - title: "Don't be a hero"
@@ -119,6 +123,8 @@ automate_what:
     url: "/principals/automate-what/"
     btn_label: "Read"
     btn_class: "btn--inverse"
+    image_path: /assets/images/business-600x400.png
+    alt: "Business"
 
 
 turning_pro:
@@ -131,7 +137,8 @@ data:
     url: "/principals/data/"
     btn_label: "Read"
     btn_class: "btn--inverse"
-
+    image_path: /assets/images/data-is-key-600x400.png
+    alt: "Data is key"
 
 service_catalog:
   - title: "Build a service catalog"
