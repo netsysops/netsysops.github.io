@@ -12,10 +12,8 @@ IGNORED_FILES = [
     'articles/index.html',
     '_pages/ggabriele.md',
     '_principals/0023-own-your-config.md',
-    '_principals/0031-service-catalog.md',
     '_principals/0032-abstract.md',
     '_principals/0033-expose.md',
-    '_principals/0034-testing.md',
     '_principals/0035-have-fun.md'
 ]
 

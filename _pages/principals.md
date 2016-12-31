@@ -148,6 +148,8 @@ service_catalog:
     url: "/principals/service-catalog/"
     btn_label: "Read"
     btn_class: "btn--inverse"
+    image_path: /assets/images/tools-catalog-600x400.png
+    alt: "Catalog"
 
 abstract:
   - title: "Abstract the details"
@@ -171,6 +173,8 @@ testing:
     url: "/principals/testing/"
     btn_label: "Read"
     btn_class: "btn--inverse"
+    image_path: /assets/images/measure-600x400.png
+    alt: "Testing"
 
 
 have_fun:
