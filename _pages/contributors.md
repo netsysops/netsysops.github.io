@@ -28,6 +28,15 @@ ggabriele:
     btn_label: "Read more"
     btn_class: "btn--inverse"
 
+jedelman8:
+  - title: "Jason Edelman"
+    image_path: jason-edelman-600x400.jpg
+    alt: "Jason Edelman"
+    excerpt: 'Jason Edelman is a xxx'
+    url: "/jedelman8/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse"
+
 ogenstad:
   - title: "Patrick Ogenstad"
     image_path: /assets/images/patrick-ogenstad-600x400.jpg
@@ -50,7 +59,8 @@ contribute:
 
 {% include feature_row id="dbarrosop" type="right" %}
 {% include feature_row id="ggabriele" type="left" %}
-{% include feature_row id="ogenstad" type="right" %}
+{% include feature_row id="jedelman8" type="right" %}
+{% include feature_row id="ogenstad" type="left" %}
 
 
 {% include feature_row id="contribute" type="center" %}
