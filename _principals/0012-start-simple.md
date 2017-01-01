@@ -5,4 +5,6 @@ header:
   teaser: /assets/images/simple-start-600x400.png
 
 ---
-Solve something simple at first.
+This page is coming soon.
+
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

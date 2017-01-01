@@ -5,4 +5,6 @@ header:
   teaser: /assets/images/matrix-600x400.png
 
 ---
-Abstract the details
+This page is coming soon.
+
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

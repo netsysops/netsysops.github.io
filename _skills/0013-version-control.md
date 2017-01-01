@@ -5,4 +5,6 @@ header:
   teaser: /assets/images/versions-600x400.png
 
 ---
-Learn about version control
+This page is coming soon.
+
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

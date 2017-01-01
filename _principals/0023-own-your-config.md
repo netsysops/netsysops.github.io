@@ -5,4 +5,6 @@ header:
   teaser: /assets/images/configuring-600x400.png
 
 ---
-Own your configuration
+This page is coming soon.
+
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

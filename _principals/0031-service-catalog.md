@@ -5,4 +5,6 @@ header:
   teaser: /assets/images/tools-catalog-600x400.png
 
 ---
-Build a service catalog
+This page is coming soon.
+
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

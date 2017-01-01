@@ -5,4 +5,6 @@ header:
   teaser: /assets/images/penguin-600x400.png
 
 ---
-You have to learn Linux.
+This page is coming soon.
+
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

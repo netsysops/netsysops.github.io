@@ -5,4 +5,6 @@ header:
   teaser: /assets/images/code-block-600x400.png
 
 ---
-Expose your work to the rest of the organization.
+This page is coming soon.
+
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

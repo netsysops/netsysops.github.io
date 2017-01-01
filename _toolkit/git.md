@@ -6,5 +6,6 @@ header:
   teaser: /assets/images/git-600x400.png
 
 ---
+This page is coming soon.
 
-Git git git
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

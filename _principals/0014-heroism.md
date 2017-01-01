@@ -7,4 +7,6 @@ header:
 
 
 ---
-Don't try to do everything by yourself.
+This page is coming soon.
+
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

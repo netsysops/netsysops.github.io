@@ -5,4 +5,6 @@ header:
   teaser: /assets/images/brownfield-600x400.png
 
 ---
-The Brownfield journey.
+This page is coming soon.
+
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

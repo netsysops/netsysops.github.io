@@ -2,7 +2,9 @@
 title: Why Bother?
 permalink: /principals/why-bother/
 header:
-  teaser: /assets/images/patrick-ogenstad-600x400.jpg
+  teaser: /assets/images/why-bother-600x400.png
 
 ---
-Why bother with automation?
+This page is coming soon.
+
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

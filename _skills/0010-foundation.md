@@ -5,4 +5,6 @@ header:
   teaser: /assets/images/foundation-600x400.png
 
 ---
-Text about building a fundamental knowledge about networking
+This page is coming soon.
+
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

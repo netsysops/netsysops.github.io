@@ -5,4 +5,6 @@ header:
   teaser: /assets/images/verify-changes-600x400.png
 
 ---
-Verify the changes you make
+This page is coming soon.
+
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

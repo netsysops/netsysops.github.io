@@ -6,5 +6,6 @@ header:
   teaser: /assets/images/napalm-logo-600x400.png
 
 ---
+This page is coming soon.
 
-Hello, here is some text about Napalm
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

@@ -5,4 +5,6 @@ header:
   teaser: /assets/images/map-600x400.png
 
 ---
-Understand how the whole system works, not just the router.
+This page is coming soon.
+
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

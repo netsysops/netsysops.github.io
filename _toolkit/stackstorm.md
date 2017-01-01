@@ -6,5 +6,6 @@ header:
   teaser: /assets/images/stackstorm-600x400.png
 
 ---
+This page is coming soon.
 
-Information about Stackstorm
+If you [subscribe](/subscribe/) we will let you know when more articles are published.

@@ -5,4 +5,6 @@ header:
   teaser: /assets/images/future-tools-600x400.png
 
 ---
-Be prepared to keep learning
+This page is coming soon.
+
+If you [subscribe](/subscribe/) we will let you know when more articles are published.
