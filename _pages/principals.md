@@ -97,7 +97,8 @@ own_your_config:
     url: "/principals/own-your-config/"
     btn_label: "Read"
     btn_class: "btn--inverse"
-
+    image_path: /assets/images/configuring-600x400.png
+    alt: "Configuring"
 
 verify:
   - title: "Verify your changes"
@@ -157,6 +158,8 @@ abstract:
     url: "/principals/abstract/"
     btn_label: "Read"
     btn_class: "btn--inverse"
+    image_path: /assets/images/matrix-600x400.png
+    alt: "Matrix"
 
 
 expose:
@@ -165,7 +168,8 @@ expose:
     url: "/principals/expose/"
     btn_label: "Read"
     btn_class: "btn--inverse"
-
+    image_path: /assets/images/code-block-600x400.png
+    alt: "Code block"
 
 testing:
   - title: "Network testing"
@@ -183,6 +187,9 @@ have_fun:
     url: "/principals/have-fun/"
     btn_label: "Read"
     btn_class: "btn--inverse"
+    image_path: /assets/images/sharing-600x400.png
+    alt: "Share"
+
 
 
 ---
