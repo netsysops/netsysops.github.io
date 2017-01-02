@@ -21,7 +21,7 @@ dbarrosop:
 
 ggabriele:
   - title: "Gabriele Gerbino"
-    image_path: gabriele-gerbino-600x400.jpg
+    image_path: /assets/images/gabriele-gerbino-600x400.png
     alt: "Gabriele Gerbino"
     excerpt: 'Gabriele Gerbino is a xxx'
     url: "/ggabriele/"

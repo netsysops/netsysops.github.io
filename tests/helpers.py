@@ -10,7 +10,6 @@ IGNORED_FILES = [
     '_site-validation/site-validation.md',
     '_pages/site-validation.md',
     'articles/index.html',
-    '_pages/ggabriele.md',
     '_pages/jedelman8.md',
 ]
 

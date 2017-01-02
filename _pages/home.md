@@ -6,7 +6,6 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: unsplash-image-1.jpg
   teaser: /assets/images/principals-500x300.png
 excerpt: 'Guides and resources to get people started with network automation. Give us a star and start automating.<br /> <br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=netsysops&repo=netsysops.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>{:/nomarkdown}'
 
