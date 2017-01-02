@@ -15,6 +15,15 @@ ggabriele:
   uri         : "https://projectme10.wordpress.com/"
   twitter     : "gabrielegerbino"
 
+
+itdependsnetworks:
+  name        : "Ken Celenza"
+  bio         : "Works at <a href='http://networktocode.com/'>network.toCode()</a>"
+  avatar      : "/assets/images/kcelenza-160x160.png"
+  github      : "itdependsnetworks"
+  uri         : "http://itdependsnetworks.com/"
+
+
 jedelman8:
   name        : "Jason Edelman"
   bio         : "Works at <a href='http://networktocode.com/'>network.toCode()</a>"

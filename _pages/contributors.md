@@ -37,6 +37,17 @@ jedelman8:
     btn_label: "Read more"
     btn_class: "btn--inverse"
 
+
+itdependsnetworks:
+  - title: "Ken Celenza"
+    image_path: itdependsnetworks-600x400.jpg
+    alt: "Ken Celenza"
+    excerpt: 'Ken Celenza is a xxx'
+    url: "/itdependsnetworks/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse"
+
+
 ogenstad:
   - title: "Patrick Ogenstad"
     image_path: /assets/images/patrick-ogenstad-600x400.jpg
@@ -60,7 +71,8 @@ contribute:
 {% include feature_row id="dbarrosop" type="right" %}
 {% include feature_row id="ggabriele" type="left" %}
 {% include feature_row id="jedelman8" type="right" %}
-{% include feature_row id="ogenstad" type="left" %}
+{% include feature_row id="itdependsnetworks" type="left" %}
+{% include feature_row id="ogenstad" type="right" %}
 
 
 {% include feature_row id="contribute" type="center" %}
