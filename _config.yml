@@ -270,6 +270,38 @@ defaults:
       comments: true
       share: true
 
+  - scope:
+      path: "_posts/itdependsnetworks"
+      type: posts
+    values:
+      author: itdependsnetworks
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+
+  - scope:
+      path: "_posts/jedelman8"
+      type: posts
+    values:
+      author: jedelman8
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+
+  - scope:
+      path: "_posts/mirceaulinic"
+      type: posts
+    values:
+      author: mirceaulinic
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
 
   - scope:
       path: "_posts/ogenstad"
