@@ -11,7 +11,7 @@ IGNORED_FILES = [
     '_pages/site-validation.md',
     'articles/index.html',
     '_pages/jedelman8.md',
-    '_pages/itdependsnetworks.md'
+    '_pages/itdependsnetworks.md',
     '_pages/mirceaulinic.md'
 ]
 
