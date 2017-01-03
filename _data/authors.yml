@@ -1,8 +1,8 @@
 dbarrosop:
   name        : "David Barroso"
-  uri         : "https://www.dravetech.com/"
   bio         : "Works at <a href='https://www.fastly.com/'>Fastly</a>"
   avatar      : "/assets/images/dbarrosop-160x160.png"
+  uri         : "https://www.dravetech.com/"
   github      : "dbarrosop"
   twitter     : "dbarrosop"
   linkedin    : "dbarrosop"
@@ -32,11 +32,21 @@ jedelman8:
   uri         : "http://jedelman.com/"
   twitter     : "jedelman8"
 
+
+mirceaulinic:
+  name        : "Mircea Ulinic"
+  bio         : "Works at <a href='https://www.cloudflare.com/'>Cloudflare</a>"
+  avatar      : "/assets/images/mirceaulinic-160x160.png"
+  github      : "mirceaulinic"
+  uri         : "https://mirceaulinic.net/"
+  twitter     : "mirceaulinic"
+
+
 ogenstad:
   name        : "Patrick Ogenstad"
   bio         : "Works at <a href='http://www.conscia-netsafe.se/'>Conscia</a>"
   avatar      : "/assets/images/ogenstad-160x160.png"
   github      : ogenstad
-  twitter     : "networklore"
   uri         : "https://networklore.com"
+  twitter     : "networklore"
   linkedin    : "patrickogenstad"

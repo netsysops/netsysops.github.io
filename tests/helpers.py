@@ -12,6 +12,7 @@ IGNORED_FILES = [
     'articles/index.html',
     '_pages/jedelman8.md',
     '_pages/itdependsnetworks.md'
+    '_pages/mirceaulinic.md'
 ]
 
 

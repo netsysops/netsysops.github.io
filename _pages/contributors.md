@@ -48,6 +48,16 @@ itdependsnetworks:
     btn_class: "btn--inverse"
 
 
+mirceaulinic:
+  - title: "Mircea Ulinic"
+    image_path: mirceaulinic-600x400.jpg
+    alt: "Mircea Ulinic"
+    excerpt: 'Mircea Ulinic is a xxx'
+    url: "/mirceaulinic/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse"
+
+
 ogenstad:
   - title: "Patrick Ogenstad"
     image_path: /assets/images/patrick-ogenstad-600x400.jpg
@@ -72,7 +82,7 @@ contribute:
 {% include feature_row id="ggabriele" type="left" %}
 {% include feature_row id="jedelman8" type="right" %}
 {% include feature_row id="itdependsnetworks" type="left" %}
-{% include feature_row id="ogenstad" type="right" %}
-
+{% include feature_row id="mirceaulinic" type="right" %}
+{% include feature_row id="ogenstad" type="left" %}
 
 {% include feature_row id="contribute" type="center" %}
