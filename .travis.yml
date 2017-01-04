@@ -5,12 +5,11 @@ rvm:
 
 install:
   - bundle install
-  - gem install html-proofer
   - sudo pip install pytest
 
 script:
   - jekyll build
-  - htmlproofer ./_site --allow-hash-href --disable-external
+  - htmlproofer ./_site --allow-hash-href --internal-domains netsysops.github.io --http-status-ignore 999
   - cp _site-validation/site-validation.md _pages
   - jekyll build
   - pytest
