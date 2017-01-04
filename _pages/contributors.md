@@ -30,7 +30,7 @@ ggabriele:
 
 jedelman8:
   - title: "Jason Edelman"
-    image_path: jason-edelman-600x400.jpg
+    image_path:
     alt: "Jason Edelman"
     excerpt: 'Jason Edelman is a xxx'
     url: "/jedelman8/"
@@ -40,7 +40,7 @@ jedelman8:
 
 itdependsnetworks:
   - title: "Ken Celenza"
-    image_path: itdependsnetworks-600x400.jpg
+    image_path:
     alt: "Ken Celenza"
     excerpt: 'Ken Celenza is a xxx'
     url: "/itdependsnetworks/"
@@ -50,7 +50,7 @@ itdependsnetworks:
 
 mirceaulinic:
   - title: "Mircea Ulinic"
-    image_path: mirceaulinic-600x400.jpg
+    image_path: 
     alt: "Mircea Ulinic"
     excerpt: 'Mircea Ulinic is a xxx'
     url: "/mirceaulinic/"
