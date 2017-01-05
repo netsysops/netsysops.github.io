@@ -10,6 +10,16 @@ header:
 intro:
   - title: "Contributors"
 
+cidrblock:
+  - title: "Bradley Thornton"
+    image_path:
+    alt: "Bradley Thornton"
+    excerpt: 'Bradley Thornton is a xxx'
+    url: "/cidrblock/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse"
+
+
 dbarrosop:
   - title: "David Barroso"
     image_path: /assets/images/david-barroso-600x400.png
@@ -50,7 +60,7 @@ itdependsnetworks:
 
 mirceaulinic:
   - title: "Mircea Ulinic"
-    image_path: 
+    image_path:
     alt: "Mircea Ulinic"
     excerpt: 'Mircea Ulinic is a xxx'
     url: "/mirceaulinic/"
@@ -78,6 +88,7 @@ contribute:
 
 {% include feature_row id="intro" type="center" %}
 
+{% include feature_row id="cidrblock" type="left" %}
 {% include feature_row id="dbarrosop" type="right" %}
 {% include feature_row id="ggabriele" type="left" %}
 {% include feature_row id="jedelman8" type="right" %}

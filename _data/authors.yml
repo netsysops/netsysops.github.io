@@ -1,3 +1,10 @@
+cidrblock:
+  name        : "Bradley Thornton"
+  bio         : "Works at xxx"
+  avatar      : "/assets/images/cidrblock-160x160.png"
+  github      : "cidrblock"
+  twitter     : "cidrblock"
+
 dbarrosop:
   name        : "David Barroso"
   bio         : "Works at <a href='https://www.fastly.com/'>Fastly</a>"
@@ -6,6 +13,7 @@ dbarrosop:
   github      : "dbarrosop"
   twitter     : "dbarrosop"
   linkedin    : "dbarrosop"
+
 
 ggabriele:
   name        : "Gabriele Gerbino"

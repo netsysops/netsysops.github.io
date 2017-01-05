@@ -249,6 +249,17 @@ defaults:
 
   # _posts
   - scope:
+      path: "_posts/cidrblock"
+      type: posts
+    values:
+      author: cidrblock
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+
+  - scope:
       path: "_posts/dbarrosop"
       type: posts
     values:
