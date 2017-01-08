@@ -16,7 +16,7 @@ introduction:
 
 bother:
   - title: "Why Bother?"
-    excerpt: 'Why should you care about network automation?'
+    excerpt: "Why should you care about learning to automate your network? Aside from the fact that it's more fun, less error prone and faster. Knowing how to do this will increase your value within your current organization, or your next one. The flip side of is that if you don't know how to configure without the cli, your value might be end of life."
     url: "/principals/why-bother/"
     btn_label: "Read"
     btn_class: "btn--inverse"
