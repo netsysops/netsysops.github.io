@@ -1,8 +1,8 @@
 ---
-title: Don't reinvent
-permalink: /principals/dont-reinvent/
+title: Verify changes
+permalink: /principles/verify-changes/
 header:
-  teaser: /assets/images/cart-wheel-600x400.png
+  teaser: /assets/images/verify-changes-600x400.png
 
 ---
 This page is coming soon.

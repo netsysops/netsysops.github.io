@@ -1,9 +1,8 @@
 ---
-title: Find a balance
-permalink: /principals/balance/
+title: Thinking in templates
+permalink: /principles/templates/
 header:
-  teaser: /assets/images/balance-600x400.png
-
+  teaser: /assets/images/templates-600x400.png
 ---
 This page is coming soon.
 

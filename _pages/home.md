@@ -11,12 +11,12 @@ excerpt: 'Guides and resources to get people started with network automation. Gi
 
 
 feature_row:
-  - title: "Automation Principals"
-    image_path: /assets/images/principals-500x300.png
-    alt: "Principals"
-    excerpt: "The principals of network automation."
-    url: "/principals/"
-    btn_label: "Read the principals"
+  - title: "Automation Principles"
+    image_path: /assets/images/principles-500x300.png
+    alt: "Principles"
+    excerpt: "The principles of network automation."
+    url: "/principles/"
+    btn_label: "Read the principles"
     btn_class: "btn--inverse"
   - title: "Skills"
     image_path: /assets/images/skills-500x300.png

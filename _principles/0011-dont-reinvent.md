@@ -1,8 +1,8 @@
 ---
-title: Always iterate
-permalink: /principals/iterate/
+title: Don't reinvent
+permalink: /principles/dont-reinvent/
 header:
-  teaser: /assets/images/iterate-600x400.png
+  teaser: /assets/images/cart-wheel-600x400.png
 
 ---
 This page is coming soon.

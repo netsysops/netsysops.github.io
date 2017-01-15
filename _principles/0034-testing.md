@@ -1,8 +1,8 @@
 ---
-title: Abstract the details
-permalink: /principals/abstract/
+title: Network testing
+permalink: /principles/testing/
 header:
-  teaser: /assets/images/matrix-600x400.png
+  teaser: /assets/images/measure-600x400.png
 
 ---
 This page is coming soon.

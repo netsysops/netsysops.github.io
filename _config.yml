@@ -327,7 +327,7 @@ defaults:
 
   - scope:
       path: ""
-      type: principals
+      type: principles
     values:
       layout: single
       author_profile: false
@@ -335,7 +335,7 @@ defaults:
       read_time: false
       comment: false
       sidebar:
-        nav: "principals"
+        nav: "principles"
 
   - scope:
       path: ""
@@ -364,7 +364,7 @@ defaults:
 
 # Collections
 collections:
-  principals:
+  principles:
     output: true
     permalink: /:collection/:path/
   skills:

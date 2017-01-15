@@ -1,8 +1,8 @@
 ---
-title: Pushing Configuration
-permalink: /principals/push-config/
+title: Abstract the details
+permalink: /principles/abstract/
 header:
-  teaser: /assets/images/manufacture-600x400.png
+  teaser: /assets/images/matrix-600x400.png
 
 ---
 This page is coming soon.

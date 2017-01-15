@@ -1,8 +1,8 @@
 ---
-title: What are you automating?
-permalink: /principals/automate-what/
+title: Expose yourself
+permalink: /principles/expose/
 header:
-  teaser: /assets/images/business-600x400.png
+  teaser: /assets/images/code-block-600x400.png
 
 ---
 This page is coming soon.

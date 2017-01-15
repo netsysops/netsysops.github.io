@@ -1,8 +1,8 @@
 ---
-title: Own your configuration
-permalink: /principals/own-your-config/
+title: Pushing Configuration
+permalink: /principles/push-config/
 header:
-  teaser: /assets/images/configuring-600x400.png
+  teaser: /assets/images/manufacture-600x400.png
 
 ---
 This page is coming soon.

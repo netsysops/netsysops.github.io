@@ -1,8 +1,8 @@
 ---
-title: Have fun and share
-permalink: /principals/have-fun/
+title: The brownfield journey
+permalink: /principles/brownfield-journey/
 header:
-  teaser: /assets/images/sharing-600x400.png
+  teaser: /assets/images/brownfield-600x400.png
 
 ---
 This page is coming soon.

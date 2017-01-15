@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Principals"
-    url: /principals/
+  - title: "Principles"
+    url: /principles/
 
   - title: "Skills"
     url: /skills/
@@ -16,51 +16,51 @@ main:
     url: /articles/
 
 
-principals:
+principles:
   - title: Introduction
     children:
       - title: "Why bother"
-        url: /principals/why-bother/
+        url: /principles/why-bother/
       - title: "Don't reinvent things"
-        url: /principals/dont-reinvent/
+        url: /principles/dont-reinvent/
       - title: "Start simple"
-        url: /principals/start-simple/
+        url: /principles/start-simple/
       - title: "Iterate"
-        url: /principals/iterate/
+        url: /principles/iterate/
       - title: "Don't be a hero"
-        url: /principals/heroism/
+        url: /principles/heroism/
 
   - title: Automating your configuration
     children:
       - title: "Pushing config"
-        url: /principals/push-config/
+        url: /principles/push-config/
       - title: "Thinking in templates"
-        url: /principals/templates/
+        url: /principles/templates/
       - title: "The brownfield journey"
-        url: /principals/brownfield-journey/
+        url: /principles/brownfield-journey/
       - title: "Own your configuration"
-        url: /principals/own-your-config/
+        url: /principles/own-your-config/
       - title: "Verify the changes"
-        url: /principals/verify-changes/
+        url: /principles/verify-changes/
       - title: "Find a balance"
-        url: /principals/balance/
+        url: /principles/balance/
       - title: "What are you automating?"
-        url: /principals/automate-what/
+        url: /principles/automate-what/
 
   - title: Turning pro
     children:
       - title: "Data is key"
-        url: /principals/data/
+        url: /principles/data/
       - title: "Build a service catalog"
-        url: /principals/service-catalog/
+        url: /principles/service-catalog/
       - title: "Abstraction"
-        url: /principals/abstract/
+        url: /principles/abstract/
       - title: "Expose"
-        url: /principals/expose/
+        url: /principles/expose/
       - title: "Network testing"
-        url: /principals/testing/
+        url: /principles/testing/
       - title: "Have fun and share"
-        url: /principals/have-fun/
+        url: /principles/have-fun/
 
 skills:
   - title: Honing your skills

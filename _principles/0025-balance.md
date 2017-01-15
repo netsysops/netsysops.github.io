@@ -1,8 +1,8 @@
 ---
-title: Build a service catalog
-permalink: /principals/service-catalog/
+title: Find a balance
+permalink: /principles/balance/
 header:
-  teaser: /assets/images/tools-catalog-600x400.png
+  teaser: /assets/images/balance-600x400.png
 
 ---
 This page is coming soon.

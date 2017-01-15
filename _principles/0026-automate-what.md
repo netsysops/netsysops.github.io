@@ -1,8 +1,8 @@
 ---
-title: The brownfield journey
-permalink: /principals/brownfield-journey/
+title: What are you automating?
+permalink: /principles/automate-what/
 header:
-  teaser: /assets/images/brownfield-600x400.png
+  teaser: /assets/images/business-600x400.png
 
 ---
 This page is coming soon.

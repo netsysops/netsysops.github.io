@@ -1,8 +1,8 @@
 ---
-title: Expose yourself
-permalink: /principals/expose/
+title: Start Simple
+permalink: /principles/start-simple/
 header:
-  teaser: /assets/images/code-block-600x400.png
+  teaser: /assets/images/simple-start-600x400.png
 
 ---
 This page is coming soon.

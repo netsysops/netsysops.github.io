@@ -1,8 +1,8 @@
 ---
-title: Data is key?
-permalink: /principals/data/
+title: Build a service catalog
+permalink: /principles/service-catalog/
 header:
-  teaser: /assets/images/data-is-key-600x400.png
+  teaser: /assets/images/tools-catalog-600x400.png
 
 ---
 This page is coming soon.

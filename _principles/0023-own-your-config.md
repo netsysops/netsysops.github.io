@@ -1,8 +1,8 @@
 ---
-title: Verify changes
-permalink: /principals/verify-changes/
+title: Own your configuration
+permalink: /principles/own-your-config/
 header:
-  teaser: /assets/images/verify-changes-600x400.png
+  teaser: /assets/images/configuring-600x400.png
 
 ---
 This page is coming soon.

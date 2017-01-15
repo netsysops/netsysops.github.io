@@ -1,8 +1,8 @@
 ---
-title: Network testing
-permalink: /principals/testing/
+title: Have fun and share
+permalink: /principles/have-fun/
 header:
-  teaser: /assets/images/measure-600x400.png
+  teaser: /assets/images/sharing-600x400.png
 
 ---
 This page is coming soon.
