@@ -1,6 +1,6 @@
 ---
 title: Pushing Configuration
-permalink: /principals/push-config/
+permalink: /principles/push-config/
 header:
   teaser: /assets/images/manufacture-600x400.png
 

@@ -1,6 +1,6 @@
 ---
 title: The brownfield journey
-permalink: /principals/brownfield-journey/
+permalink: /principles/brownfield-journey/
 header:
   teaser: /assets/images/brownfield-600x400.png
 

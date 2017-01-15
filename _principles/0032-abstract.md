@@ -1,6 +1,6 @@
 ---
 title: Abstract the details
-permalink: /principals/abstract/
+permalink: /principles/abstract/
 header:
   teaser: /assets/images/matrix-600x400.png
 

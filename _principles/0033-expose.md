@@ -1,6 +1,6 @@
 ---
 title: Expose yourself
-permalink: /principals/expose/
+permalink: /principles/expose/
 header:
   teaser: /assets/images/code-block-600x400.png
 

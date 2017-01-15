@@ -1,6 +1,6 @@
 ---
 title: Thinking in templates
-permalink: /principals/templates/
+permalink: /principles/templates/
 header:
   teaser: /assets/images/templates-600x400.png
 ---

@@ -1,6 +1,6 @@
 ---
 title: Always iterate
-permalink: /principals/iterate/
+permalink: /principles/iterate/
 header:
   teaser: /assets/images/iterate-600x400.png
 

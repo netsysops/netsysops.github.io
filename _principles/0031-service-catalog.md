@@ -1,6 +1,6 @@
 ---
 title: Build a service catalog
-permalink: /principals/service-catalog/
+permalink: /principles/service-catalog/
 header:
   teaser: /assets/images/tools-catalog-600x400.png
 

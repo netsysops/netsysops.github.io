@@ -1,13 +1,13 @@
 ---
-title: "Principals of Network Automation"
+title: "Principles of Network Automation"
 layout: splash
-permalink: /principals/
+permalink: /principles/
 excerpt: ""
 header:
-  teaser: /assets/images/principals-500x300.png
+  teaser: /assets/images/principles-500x300.png
 
 intro:
-  - title: "The Principals of Network Automation"
+  - title: "The Principles of Network Automation"
     excerpt: ''
 
 
@@ -17,7 +17,7 @@ introduction:
 bother:
   - title: "Why Bother?"
     excerpt: "Why should you care about learning to automate your network? Aside from the fact that it's more fun, less error prone and faster. Knowing how to do this will increase your value within your current organization, or your next one. The flip side of is that if you don't know how to configure without the cli, your value might be end of life."
-    url: "/principals/why-bother/"
+    url: "/principles/why-bother/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/why-bother-600x400.png
@@ -25,8 +25,8 @@ bother:
 
 reinvention:
   - title: "Don't reinvent"
-    excerpt: 'The fallacy of the "not invented here" principal.'
-    url: "/principals/dont-reinvent/"
+    excerpt: 'The fallacy of the "not invented here" train of thought.'
+    url: "/principles/dont-reinvent/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/cart-wheel-600x400.png
@@ -35,7 +35,7 @@ reinvention:
 simple:
   - title: "Start simple"
     excerpt: "Rome wasn't built in a day"
-    url: "/principals/start-simple/"
+    url: "/principles/start-simple/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/simple-start-600x400.png
@@ -44,7 +44,7 @@ simple:
 iterate:
   - title: "Always iterate"
     excerpt: "You are never done. Look for the next thing to improve."
-    url: "/principals/iterate/"
+    url: "/principles/iterate/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/iterate-600x400.png
@@ -53,7 +53,7 @@ iterate:
 heroism:
   - title: "Don't be a hero"
     excerpt: "It's foolish to go alone."
-    url: "/principals/heroism/"
+    url: "/principles/heroism/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/superhero-600x400.png
@@ -65,7 +65,7 @@ automating_config:
 push_config:
   - title: "Pushing configuration"
     excerpt: "Start with simple config changes."
-    url: "/principals/push-config/"
+    url: "/principles/push-config/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/manufacture-600x400.png
@@ -74,7 +74,7 @@ push_config:
 templates:
   - title: "Thinking in templates"
     excerpt: "Configuration templates"
-    url: "/principals/templates/"
+    url: "/principles/templates/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/templates-600x400.png
@@ -84,7 +84,7 @@ templates:
 brownfield_journey:
   - title: "The brownfield journey"
     excerpt: "Automation doesn't always start with greenfield projects, how do you automate your current environment?"
-    url: "/principals/brownfield-journey/"
+    url: "/principles/brownfield-journey/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/brownfield-600x400.png
@@ -94,7 +94,7 @@ brownfield_journey:
 own_your_config:
   - title: "Own your config"
     excerpt: "Own your entire configuration"
-    url: "/principals/own-your-config/"
+    url: "/principles/own-your-config/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/configuring-600x400.png
@@ -103,7 +103,7 @@ own_your_config:
 verify:
   - title: "Verify your changes"
     excerpt: "Verify the changes you make"
-    url: "/principals/verify-changes/"
+    url: "/principles/verify-changes/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/verify-changes-600x400.png
@@ -113,7 +113,7 @@ verify:
 balance:
   - title: "Find a balance"
     excerpt: "Find a balance"
-    url: "/principals/balance/"
+    url: "/principles/balance/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/balance-600x400.png
@@ -123,7 +123,7 @@ balance:
 automate_what:
   - title: "What are you automating?"
     excerpt: "What are you trying to automate?"
-    url: "/principals/automate-what/"
+    url: "/principles/automate-what/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/business-600x400.png
@@ -137,7 +137,7 @@ turning_pro:
 data:
   - title: "Data is key"
     excerpt: "Data is key"
-    url: "/principals/data/"
+    url: "/principles/data/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/data-is-key-600x400.png
@@ -146,7 +146,7 @@ data:
 service_catalog:
   - title: "Build a service catalog"
     excerpt: "Build a service catalog"
-    url: "/principals/service-catalog/"
+    url: "/principles/service-catalog/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/tools-catalog-600x400.png
@@ -155,7 +155,7 @@ service_catalog:
 abstract:
   - title: "Abstract the details"
     excerpt: "Abstraction"
-    url: "/principals/abstract/"
+    url: "/principles/abstract/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/matrix-600x400.png
@@ -165,7 +165,7 @@ abstract:
 expose:
   - title: "Expose your work"
     excerpt: "Expose"
-    url: "/principals/expose/"
+    url: "/principles/expose/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/code-block-600x400.png
@@ -174,7 +174,7 @@ expose:
 testing:
   - title: "Network testing"
     excerpt: "Testing"
-    url: "/principals/testing/"
+    url: "/principles/testing/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/measure-600x400.png
@@ -184,7 +184,7 @@ testing:
 have_fun:
   - title: "Have fun and share"
     excerpt: "Don't forget to enjoy what you are doing and share back to the community."
-    url: "/principals/have-fun/"
+    url: "/principles/have-fun/"
     btn_label: "Read"
     btn_class: "btn--inverse"
     image_path: /assets/images/sharing-600x400.png

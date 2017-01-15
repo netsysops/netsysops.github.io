@@ -1,6 +1,6 @@
 ---
 title: Find a balance
-permalink: /principals/balance/
+permalink: /principles/balance/
 header:
   teaser: /assets/images/balance-600x400.png
 

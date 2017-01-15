@@ -1,6 +1,6 @@
 ---
 title: Network testing
-permalink: /principals/testing/
+permalink: /principles/testing/
 header:
   teaser: /assets/images/measure-600x400.png
 

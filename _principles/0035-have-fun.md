@@ -1,6 +1,6 @@
 ---
 title: Have fun and share
-permalink: /principals/have-fun/
+permalink: /principles/have-fun/
 header:
   teaser: /assets/images/sharing-600x400.png
 

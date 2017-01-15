@@ -1,6 +1,6 @@
 ---
 title: Verify changes
-permalink: /principals/verify-changes/
+permalink: /principles/verify-changes/
 header:
   teaser: /assets/images/verify-changes-600x400.png
 

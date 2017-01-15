@@ -1,6 +1,6 @@
 ---
 title: Don't reinvent
-permalink: /principals/dont-reinvent/
+permalink: /principles/dont-reinvent/
 header:
   teaser: /assets/images/cart-wheel-600x400.png
 
