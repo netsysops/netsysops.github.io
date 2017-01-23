@@ -25,7 +25,7 @@ bother:
 
 reinvention:
   - title: "Don't reinvent"
-    excerpt: 'The fallacy of the "not invented here" train of thought.'
+    excerpt: 'While it can be tempting to create your own tools and libraries for network automation, before you do you might want review your priorities and goals. You might find that you end up spending time maintaining a tool instead of improving your network.'
     url: "/principles/dont-reinvent/"
     btn_label: "Read"
     btn_class: "btn--inverse"
@@ -34,7 +34,7 @@ reinvention:
 
 simple:
   - title: "Start simple"
-    excerpt: "Rome wasn't built in a day"
+    excerpt: "There can be a **lot** of new concepts you need to get familiar with before you have mastered all you need to know and it can feel great to think about how your network will be operated in the future . However as you start out you should gain confidence by focusing on the easy wins."
     url: "/principles/start-simple/"
     btn_label: "Read"
     btn_class: "btn--inverse"
@@ -43,7 +43,7 @@ simple:
 
 iterate:
   - title: "Always iterate"
-    excerpt: "You are never done. Look for the next thing to improve."
+    excerpt: "You are never done. As you automate your day to day tasks you should focus on continual improvement. This could be related to speed or improved quality, but watch out for automations which end up taking more time than doing it manually."
     url: "/principles/iterate/"
     btn_label: "Read"
     btn_class: "btn--inverse"
@@ -52,7 +52,7 @@ iterate:
 
 heroism:
   - title: "Don't be a hero"
-    excerpt: "It's foolish to go alone."
+    excerpt: "It's foolish to try to solve everything by yourself. A lot of people are on the same journey as you are and others have already been there. If you get stuck don't hesitate to ask others for help."
     url: "/principles/heroism/"
     btn_label: "Read"
     btn_class: "btn--inverse"
