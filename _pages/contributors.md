@@ -8,7 +8,7 @@ header:
 
 
 intro:
-  - title: "Contributors"
+  - title: "Creators"
 
 cidrblock:
   - title: "Bradley Thornton"
@@ -80,9 +80,8 @@ ogenstad:
 
 
 contribute:
-  - title: "Contribute"
-    excerpt: 'Want to contribute? Get in touch!'
-
+  - title: "Help us"
+    excerpt: "Do you like this page and want to contribute to its success? That sounds great! Read <a href='https://www.netsysops.io/contribute/'>how you can help</a>."
 
 ---
 
