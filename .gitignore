@@ -15,3 +15,6 @@ npm-debug.log*
 .cache/
 __pycache__
 *.pyc
+
+tags
+*.swp

@@ -15,4 +15,4 @@ script:
   - pytest
 
 after_success:
-  - test $TRAVIS_BRANCH = "master" && curl -X POST --header "Fastly-Key: $FASTLY_API_TOKEN" https://api.fastly.com/service/$FASTLY_SERVICE/purge_all
+  - make purge
