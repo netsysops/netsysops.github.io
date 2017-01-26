@@ -13,3 +13,6 @@ script:
   - cp _site-validation/site-validation.md _pages
   - jekyll build
   - pytest
+
+after_success:
+  - test $TRAVIS_BRANCH = "master" && curl -X POST --header "Fastly-Key: $FASTLY_API_TOKEN" https://api.fastly.com/service/$FASTLY_SERVICE/purge_all
