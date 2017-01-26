@@ -9,7 +9,7 @@ install:
 
 script:
   - jekyll build
-  - htmlproofer ./_site --allow-hash-href --internal-domains netsysops.github.io --http-status-ignore 999
+  - htmlproofer ./_site --allow-hash-href --internal-domains www.netsysops.io --http-status-ignore 999
   - cp _site-validation/site-validation.md _pages
   - jekyll build
   - pytest
