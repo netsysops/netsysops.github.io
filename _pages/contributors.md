@@ -81,7 +81,7 @@ ogenstad:
 
 contribute:
   - title: "Help us"
-    excerpt: "Do you like this page and want to contribute to its success? That sounds great! Read {::nomarkdown}<a href='{{ site.url }}/contribute/'>how you can help</a>{:/nomarkdown}."
+    excerpt: "Do you like this page and want to contribute to its success? That sounds great! Read <a href='https://www.netsysops.io/contribute/'>how you can help</a>."
 
 ---
 
