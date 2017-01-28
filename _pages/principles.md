@@ -93,7 +93,7 @@ brownfield_journey:
 
 own_your_config:
   - title: "Own your config"
-    excerpt: "Own your entire configuration"
+    excerpt: "It's easy to fall into the trap of focusing solely on deployment and sending configuration to your switches and routers. In order to be in complete control you must own your entire configuration. This means that instead of focusing on config lines you want on the devices you need to be the master of how the devices actually are configured."
     url: "/principles/own-your-config/"
     btn_label: "Read"
     btn_class: "btn--inverse"
