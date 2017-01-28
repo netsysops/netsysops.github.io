@@ -72,7 +72,7 @@ ogenstad:
   - title: "Patrick Ogenstad"
     image_path: /assets/images/patrick-ogenstad-600x400.jpg
     alt: "Patrick Ogenstad"
-    excerpt: 'Patrick Ogenstad is a xxx'
+    excerpt: 'Patrick Ogenstad is an IT consultant based in Stockholm, Sweden. He has worked with servers and network devices since 1998 and has accumulated a healthy dislike to doing things the old fashion way. Now he is more interested in development and helping people to work in a better way than of changing the world by typing *conf term*.'
     url: "/ogenstad/"
     btn_label: "Read more"
     btn_class: "btn--inverse"
