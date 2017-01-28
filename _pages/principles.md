@@ -83,7 +83,7 @@ templates:
 
 brownfield_journey:
   - title: "The brownfield journey"
-    excerpt: "Automation doesn't always start with greenfield projects, how do you automate your current environment?"
+    excerpt: "Most of the time automation isn't about a greenfield project, and pushing out configuration is only part of what needs to be done. Chances are that you will need to do some brownfield discovery and have a plan for how you map out your existing environment and transform the raw configurations of your devices into meaningful data."
     url: "/principles/brownfield-journey/"
     btn_label: "Read"
     btn_class: "btn--inverse"
