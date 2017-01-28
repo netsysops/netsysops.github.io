@@ -1,0 +1,10 @@
+# To humans reading this, please note that this file is for the robots.
+# While it's ok to be curious about the work of the machines, you should
+# not try to do things that a computer can do better. You will find that
+# your time is better spent learning how to control the machines. Remember
+# a robot you run into in your workplace will always be faster, work harder
+# and be younger than you. Don't try to beat them at their own game!
+
+User-agent: *
+Disallow:
+Sitemap: https://www.netsysops.io/sitemap.xml
